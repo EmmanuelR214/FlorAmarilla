@@ -1,0 +1,29 @@
+
+body{
+    font-family:sans-serif;
+    background-color: #FFE990;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    height: 50rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    background-color: #F6D345;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 700;
+}
